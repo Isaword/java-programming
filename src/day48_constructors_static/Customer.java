@@ -10,6 +10,7 @@ public class Customer {
         name = "new customer";
         id = -1;
     }
+    //
 
     //add a Constructor with params where we can assign name and id
     public Customer(String name, int id) {
